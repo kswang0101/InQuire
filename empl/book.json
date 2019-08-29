@@ -1,0 +1,9 @@
+{
+    "plugins" : [ 
+        "anchors", 
+        "-sharing"
+    ],
+    "styles": {
+        "website": "styles/website.css"
+    }
+}
